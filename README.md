@@ -1,2 +1,1 @@
-# samoletik
-just another repository
+
